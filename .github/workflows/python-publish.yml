@@ -5,7 +5,7 @@ name: Test github Action
 
 on:
   release:
-    types: [created]
+    types: [push]
 
 jobs:
   deploy:
