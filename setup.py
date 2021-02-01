@@ -8,7 +8,7 @@ setup(
     version="0.1a1",  # version
     description="[TODO]: Fill your description here",
     author="gawainx",
-    author_email="[TODO]: Fill your email address here",
+    author_email="liangyixp@live.cn",
     install_requires=[],
     long_description=long_description,
     long_description_content_type="text/markdown",
