@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
     name="gaction-lib",  # package name
-    version="0.1a1",  # version
+    version="0.1a2",  # version
     description="[TODO]: Fill your description here",
     author="gawainx",
     author_email="liangyixp@live.cn",
